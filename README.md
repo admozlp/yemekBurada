@@ -22,7 +22,7 @@ YemekBurada, bir restoran için geliştirilen yemek sipariş uygulamasıdır. Pr
 - Yemek Servisi (FoodService) için unit testler yazıldı.
 
 ### Veritabanı
-- MySQL veritabanı uzak bir sunucuda bulunmaktadır. Vault'da bulunan bilgilerle veritabanına bağlantı sağlanabilir.
+- MySQL veritabanı uzak bir sunucuda bulunmaktadır. Proje direkt çalıştırılabilir. Vault'da bulunan bilgilerle veritabanına bağlantı sağlanabilir.
 
 ## Proje Yapısı
 Aşağıda veri tabanı tasarımı bulunmaktadır.
