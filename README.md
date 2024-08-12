@@ -27,3 +27,5 @@ YemekBurada, bir restoran için geliştirilen yemek sipariş uygulamasıdır. Pr
 ## Proje Yapısı
 Aşağıda veri tabanı tasarımı bulunmaktadır.
 
+![Veri Tabanı Tasarımı](https://github.com/admozlp/yemekBurada/blob/master/src/main/resources/static/db-design.png)
+
